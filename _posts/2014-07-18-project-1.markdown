@@ -1,10 +1,10 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: 실타래(SLITARAE)
+subtitle: 프로그래밍 학습 웹사이트
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
+date: 2020.03~2020.12
+img: ../profile/slitarae.jpg
 thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: April 2014
