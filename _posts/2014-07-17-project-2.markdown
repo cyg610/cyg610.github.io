@@ -9,9 +9,9 @@ thumbnail: belifood-th.jpg
 alt: image-alt
 project-date: 2020.8~2020.12
 number-of-people: 1명
-tool: VisualStudioCode, NodeJs, MySQL
+tool: VisualStudioCode,NodeJs,MySQL
 language: JavaScript
 work: 프로젝트 진행 전체
-description: '빌리풋'은 믿다의 'Believe'와 음식의'food'를 합쳐 지었으며 내가 키우는 반려동물이 믿고 먹을 수 있는 음식이라는 의미를 담고 있다. 반려동물을 키우는 가구가 늘어남에 따라 수제 간식 판매처가 증가했습니다. 그러나 기존 수제 간식 사이트에는 자세한 설명이 없는 경우가 많습니다. 이런 점을 고려해 반려동물의 취향과 건강상태를 체크하고 기입 할 수 있도록 구현해 구매할 때, 어려움을 덜고자 했습니다.
+description: 빌리풋은 믿다의 'Believe'와 음식의'food'를 합쳐 지었으며 내가 키우는 반려동물이 믿고 먹을 수 있는 음식이라는 의미를 담고 있다. 반려동물을 키우는 가구가 늘어남에 따라 수제 간식 판매처가 증가했습니다. 그러나 기존 수제 간식 사이트에는 자세한 설명이 없는 경우가 많습니다. 이런 점을 고려해 반려동물의 취향과 건강상태를 체크하고 기입 할 수 있도록 구현해 구매할 때, 어려움을 덜고자 했습니다.
 
 ---
