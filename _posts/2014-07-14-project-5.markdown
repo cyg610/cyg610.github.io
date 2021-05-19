@@ -1,15 +1,22 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: Mole-Catch-Game(두더지잡기)
+subtitle: 오큘러스 VR 게임
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+img: mole-th.png
+thumbnail: mole-th.png
 alt: image-alt
-project-date: April 2014
+project-date: 2019.08~2019.09
+number-of-people: 2명
+tool: Unity3D, Oculus VR
+language: C#
+video: mole-video.mp4
+snapshot1: mole-1.JPG
+snapshot2: mole-2.JPG
+snapshot3: mole-3.JPG
+work: 뿅망치 스크립트 작성, 난이도 설정, UI 구현
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+category: 두더지를 뿅망치로 잡으면서 점수를 올리는 캐쥬얼 게임입니다.
 
 ---
