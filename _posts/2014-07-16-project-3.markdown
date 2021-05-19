@@ -4,8 +4,8 @@ subtitle: 유기동물 분양 어플리케이션
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: catedog-th2.png
-thumbnail: catedog-th2.png
+img: catedog-th3.jpg
+thumbnail: catedog-th3.jpg
 alt: image-alt
 project-date: 2019.08~2019.10
 number-of-people: 1명
