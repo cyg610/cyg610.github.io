@@ -1,0 +1,21 @@
+---
+title: 별자리무드등
+subtitle: 가변저항과 조도센서를 이용한 
+layout: default
+modal-id: 7
+date: 2018-06-05
+img: star-th.png
+thumbnail: star-th.png
+alt: image-alt
+project-date: 2018.05.20 ~ 2018.06.05
+number-of-people: 1명
+tool: Arduino IDE
+language: C
+snapshot-dis: display:none
+video: star-video.mp4
+work: 알고리즘 및 스크립트 개발
+client: Start Bootstrap
+category: Web Development
+description: 가변저항을 이용해 밝기의 최댓값을 조절하고 조도센서를 이용해 어두울 때 작동하도록 한 무드등입니다. 별자리는 북두칠성입니다.
+
+---
