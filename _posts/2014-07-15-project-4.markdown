@@ -1,15 +1,20 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: 냉장GO
+subtitle: 레시피 추천 어플리케이션
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+img: go-th.png
+thumbnail: go-th.png
 alt: image-alt
-project-date: April 2014
+project-date: 2019.03~2019.10
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+number-of-people: 4명
+tool: AndroidStudio, firebase
+language: java
+videosetting: display:none
+work: 총괄 및 파이어베이스
+description: 요리해서 끼니를 해결할 일이 많은 자취생들이나 주부 혹은 요리 초보자가 요리에 쉽게 접근하기 위한 앱, 사용자의 정보를 파악하고 이를 바탕으로 요구사항에 맞춘 레시피를 추천해 주는 어플입니다. 사용자들에게는 개인별 맞춤형 레시피를 제공함으로써 좀 더 다양한 요리를 하고 먹어 볼 수 있는 계기를 마련해 주며 커뮤니티 활성화를 통해 서로의 레시피 정보를 공유합니다. 재료나 레시피에 적절한 광고를 넣어 상품의 홍보성을 높일 수 있는 효과를 기대합니다.
 
 ---
