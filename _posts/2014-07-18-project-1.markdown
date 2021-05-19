@@ -2,15 +2,17 @@
 title: 실타래(SLITARAE)
 subtitle: 프로그래밍 학습 웹사이트
 layout: default
-modal-id: 1
+modal-id: 2
+date: 2014-07-18
 img: slitarae_main.jpg
 thumbnail: slitarae_main.jpg
 alt: image-alt
 project-date: 2020.03~2020.12
-number-of-people:3명
-tool:Raspberry Pi, Spring Boot, MariaDB, Docker, Nginex
-language: C, java
+client: Start Bootstrap
+category: Web Development
+
 work: UI 디자인, 프론트앤드 개발
 description: 실타래는 프로그래밍을 공부하는 사람들이 코드를 작성하거나 문제를 풀면서 프로그래밍을 학습하고 익힐 수 있도록 돕는 웹사이트입니다. 실타래는 많은 문제들과 함께 에디터를 제공하여 별도의 IDE를 설치하지 않고 웹사이트 안에서 문제를 받아 해결할 수 있도록 되어있습니다. 난이도, 출처별로 나누어진 문제를 통해 자신의 실력을 파악할 수 있으며, 자신이 준비하는 코딩테스트의 기출 문제를 풀 수 있습니다. 
+
 
 ---
