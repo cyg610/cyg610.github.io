@@ -17,19 +17,36 @@
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <p>{{ post.description }}</p>
                             <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
+                                <li>기간:
+                                    <strong>{{ post.project-date }}
                                     </strong>
                                 </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
+                                <li>인원수:
+                                    <strong>{{ post.number-of-people }}
                                     </strong>
                                 </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
+                                <li>개발도구:
+                                    <strong>{{ post.tool }}
                                     </strong>
                                 </li>
+                                <li>사용언어:
+                                    <strong>{{ post.language }}
+                                    </strong>
+                                </li>
+                                <li>담당업무:
+                                    <strong>{{ post.work }}
+                                    </strong>
+                                </li>                             
                             </ul>
+                            
+                            <h3 class="section-subheading text-muted">Explanation</h3>
+                            <div>{{ post.explantion }}</div>
+                         
+                            <hr>
+                            <h3 class="section-subheading text-muted">SnapShot</h3>
+                            {{ post.shapshot }}
+                         
+                            <hr>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
