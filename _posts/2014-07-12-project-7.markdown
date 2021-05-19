@@ -3,7 +3,7 @@ title: 별자리무드등
 subtitle: 가변저항과 조도센서를 이용한 
 layout: default
 modal-id: 7
-date: 2018-06-05
+date: 2014-07-12
 img: star-th2.png
 thumbnail: star-th2.png
 alt: image-alt
