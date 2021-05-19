@@ -1,15 +1,28 @@
 ---
-title: Golden
-subtitle: Website Design
+title: 캣이독
+subtitle: 유기동물 분양 어플리케이션
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: catedog-th.png
+thumbnail: catedog-th.png
 alt: image-alt
-project-date: April 2014
+project-date: 2019.08~2019.10
+number-of-people: 1명
+tool: AndroidStudio, 공공API
+language: Java
+snapshot1: catedog-1.png
+snapshot2: catedog-2.png
+snapshot3: catedog-3.png
+snapshot4: catedog-4.png
+snapshot5: catedog-5.png
+snapshot6: catedog-6.png
+snapshot7: catedog-7.png
+snapshot8: catedog-8.png
+work: 프로젝트 진행 전체
+videosetting: display:none
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: 캣이독은 유기동물을 어플리케이션으로 쉽게 찾아보며 분양 받을 수 있는 어플리케이션입니다. 정보보호시스템의 공공API를 사용해 여러 보호소의 정보를 받아오며 유기동물과 대중과의 거리감을 좁혀 반려동물을 샵에서 구매하기 보단 유기동물을 분양받는 문화를 기대합니다. 
 
 ---
