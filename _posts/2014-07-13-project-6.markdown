@@ -1,15 +1,20 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Trash Truck
+subtitle: 자율주행 쓰레기차량
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+img: trash-th.jpg
+thumbnail: trash-th.jpg
 alt: image-alt
-project-date: April 2014
+project-date: 2018.11.20 ~ 2018.12.21
+number-of-people: 3명
+tool: Arduino IDE
+language: C
+video: IMG-5799.MP4
+work: 알고리즘 및 스크립트 개발
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: 자율주행을 이용해 주행하며 쓰레기 차량에서 하자해 쓰레기를 담는 위험을 없애기 위해 모터를 사용해 센서를 인지하면 쓰레기를 잡아 트럭에 담도록 구현한 자율주행 쓰레기 차량입니다.
 
 ---
