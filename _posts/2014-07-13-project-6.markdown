@@ -11,7 +11,7 @@ project-date: 2018.11.20 ~ 2018.12.21
 number-of-people: 3명
 tool: Arduino IDE
 language: C
-video: IMG-5799.MP4
+video: IMG_5799.MP4
 work: 알고리즘 및 스크립트 개발
 client: Start Bootstrap
 category: Web Development
