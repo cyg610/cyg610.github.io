@@ -4,8 +4,8 @@ subtitle: 가변저항과 조도센서를 이용한
 layout: default
 modal-id: 7
 date: 2018-06-05
-img: star-th.png
-thumbnail: star-th.png
+img: star-th2.png
+thumbnail: star-th2.png
 alt: image-alt
 project-date: 2018.05.20 ~ 2018.06.05
 number-of-people: 1명
