@@ -14,6 +14,15 @@ number-of-people: 4명
 tool: AndroidStudio, firebase
 language: java
 videosetting: display:none
+snapshot1: go-2.jpg
+snapshot2: go-3.jpg
+snapshot3: go-4.jpg
+snapshot4: go-5.jpg
+snapshot5: go-6.jpg
+snapshot6: go-7.jpg
+snapshot7: go-1.jpg
+snapshot8: go-8.jpg
+snapshot9: go-9.jpg
 work: 총괄 및 파이어베이스
 description: 요리해서 끼니를 해결할 일이 많은 자취생들이나 주부 혹은 요리 초보자가 요리에 쉽게 접근하기 위한 앱, 사용자의 정보를 파악하고 이를 바탕으로 요구사항에 맞춘 레시피를 추천해 주는 어플입니다. 사용자들에게는 개인별 맞춤형 레시피를 제공함으로써 좀 더 다양한 요리를 하고 먹어 볼 수 있는 계기를 마련해 주며 커뮤니티 활성화를 통해 서로의 레시피 정보를 공유합니다. 재료나 레시피에 적절한 광고를 넣어 상품의 홍보성을 높일 수 있는 효과를 기대합니다.
 
