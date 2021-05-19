@@ -4,8 +4,8 @@ subtitle: 프로그래밍 학습 웹사이트
 layout: default
 modal-id: 1
 date: 2020.03~2020.12
-img: ../profile/slitarae.jpg
-thumbnail: dreams-thumbnail.png
+img: ../protfolio/slitarae.jpg
+thumbnail: ../protfolio/slitarae.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
