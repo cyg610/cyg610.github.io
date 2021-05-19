@@ -3,11 +3,10 @@ title: 실타래(SLITARAE)
 subtitle: 프로그래밍 학습 웹사이트
 layout: default
 modal-id: 1
-date: 2020.03~2020.12
-img: ../portfolio/slitarae_main.jpg
-thumbnail: ../portfolio/slitarae_main.jpg
+img: slitarae_main.jpg
+thumbnail: slitarae_main.jpg
 alt: image-alt
-project-date: April 2014
+project-date: 2020.03~2020.12
 client: Start Bootstrap
 category: Web Development
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
