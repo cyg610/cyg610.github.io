@@ -11,7 +11,7 @@ project-date: 2019.08~2019.09
 number-of-people: 2명
 tool: Unity3D, Oculus VR
 language: C#
-video: mole-video.mp4
+video: IMG_5798.MP4
 snapshot1: mole-1.JPG
 snapshot2: mole-2.JPG
 snapshot3: mole-3.JPG
