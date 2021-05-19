@@ -4,8 +4,8 @@ subtitle: 반려동물 수제간식 주문제작 웹사이트
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: belifood_th2.jpg
-thumbnail: belifood_th2.jpg
+img: belifood-th2.jpg
+thumbnail: belifood-th2.jpg
 alt: image-alt
 project-date: 2020.8~2020.12
 number-of-people: 1명
