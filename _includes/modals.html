@@ -51,9 +51,9 @@
                 <div class="row text-center">
                 <div class="col-md-4">
                     
-                 <a href="img/portfolio/{{ post.snapshot1 }}" data-toggle="lightbox" data-title="모달 제목" data-footer="모달 푸터내용">
+                 <span>
                        <img src="img/portfolio/{{ post.snapshot1 }}"  style="width:100%;" onerror="this.style.display='none'""/>
-                    </a>
+                 </span>
                 </div>
                 <div class="col-md-4">
                     <span>
@@ -119,16 +119,7 @@
                     </div>
                 </div>
          
-         
-         
-                 <script>
-                 $(document).on('click', '[data-toggle="lightbox"]', function(event) {
-                     event.preventDefault();
-                     $(this).ekkoLightbox();
-                 });
-                 </script>
-
-
+            
          
        
 {% endfor %}
