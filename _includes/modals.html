@@ -52,12 +52,19 @@
                 <div class="col-md-4">
                     
                  <span>
-                       <img src="img/portfolio/{{ post.snapshot1 }}" style="width:100%;"  onerror="this.style.display='none'""/>
+                       <img src="img/portfolio/{{ post.snapshot1 }}" data-toggle="modal" href="#IMGModal1" style="width:100%;" onerror="this.style.display='none'""/>
+                       <div class="modal-dialog">
+                          <div clas="modal-content">
+                            <div class="modal-body">
+                             <img src=""img/portfolio/{{ post.snapshot1 }}"/>
+                            </div>
+                          </div>
+                       </div>
                     </span>
                 </div>
                 <div class="col-md-4">
                     <span>
-                       <img src="img/portfolio/{{ post.snapshot2 }}" style="width:100%;"  onerror="this.style.display='none'""/>
+                       <img src="img/portfolio/{{ post.snapshot2 }}"  style="width:100%;"  onerror="this.style.display='none'""/>
                     </span>
                 </div>
                 <div class="col-md-4">
