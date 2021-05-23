@@ -117,5 +117,22 @@
                         </div>
                     </div>
                 </div>
+         
+            <!-- Modal -->
+    	<script
+	    	src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
+	      <div id="modal01" class="imgmodal-modal" onclick="this.style.display='none'">
+	    	<span class="imgmodal-button imgmodal-hover-red imgmodal-xlarge imgmodal-display-topright">&times;</span>
+		    <div class="imgmodal-modal-content imgmodal-animate-zoom">
+			  <img id="img01" style="width: 100%">
+		    </div>
+    	</div>
+	<script>
+		function onClick(element) {
+			document.getElementById("img01").src = element.src;
+			document.getElementById("modal01").style.display = "block";
+		}
+	</script>
+
 
 {% endfor %}
