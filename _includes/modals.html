@@ -52,7 +52,7 @@
                 <div class="col-md-4">
                     
                  <span>
-                       <img src="img/portfolio/{{ post.snapshot1 }}"  style="width:100%;" onclick="onClick(this)" onerror="this.style.display='none'""/>
+                       <img src="img/portfolio/{{ post.snapshot1 }}" data-toggle="lightbox" data-gallery="example-gallery" style="width:100%;" onclick="onClick(this)" onerror="this.style.display='none'""/>
                     </span>
                 </div>
                 <div class="col-md-4">
@@ -121,12 +121,13 @@
          
          
          
-         <script type="text/javascript">
-var img = document.getElementsByTagName("img");
-    for (var x = 0; x < img.length; x++) {
-      img.item(x).onclick=function() {window.open(this.src)}; 
-    }
-</script>
+                 <script>
+                 $(document).on('click', '[data-toggle="lightbox"]', function(event) {
+                     event.preventDefault();
+                     $(this).ekkoLightbox();
+                 });
+                 </script>
+
 
          
        
