@@ -1,0 +1,25 @@
+---
+title: Voluntas
+subtitle: 쉽게 찾아보는 봉사활동 APP
+layout: default
+modal-id: 8
+date: 2014-07-15
+img: vol-logo.png
+thumbnail: vol-logo.png
+alt: image-alt
+project-date: 2021.05.01~2021.05.23
+number-of-people: 1명
+tool: AndroidStudio, 공공API
+language: Kotlin
+snapshot1: vol-1.png
+snapshot2: vol-2.png
+snapshot3: vol-3.png
+snapshot4: vol-4.png
+snapshot5: vol-5.png
+work: 프로젝트 진행 전체
+videosetting: display:none
+client: Start Bootstrap
+category: Web Development
+description: Voluntas는 청소년 대상으로 진행하는 봉사활동 프로그램을 찾아보기 쉽게 지역별로 모아 제공하는 어플리케이션입니다. Voluntas의 데이터는 여성가족부에서 제공하는 공공API를 사용했습니다. 청소년들이 봉사활동을 어렵지 않게 접하며 다양한 경험을 할 수 있기를 기대합니다. 
+
+---
