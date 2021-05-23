@@ -46,6 +46,22 @@
                          
              <div style="{{ post.snapshot-dis }}">
                             <hr>
+              
+                       <!-- Modal -->
+    
+	      <div id="modal01" class="imgmodal-modal" onclick="this.style.display='none'">
+	    	<span class="imgmodal-button imgmodal-hover-red imgmodal-xlarge imgmodal-display-topright">&times;</span>
+		    <div class="imgmodal-modal-content imgmodal-animate-zoom">
+			  <img id="img01" style="width: 100%">
+		    </div>
+    	</div>
+	<script>
+		function onClick(element) {
+			document.getElementById("img01").src = element.src;
+			document.getElementById("modal01").style.display = "block";
+		}
+	</script>
+
 
                             <h3 class="section-subheading text-muted">SnapShot</h3>
                 <div class="row text-center">
@@ -102,7 +118,7 @@
                     </span>
                 </div>
             </div>        
-                                                                                                                              </div>                                                                                                                 
+           </div>                                                                                                                 
                                                                                                                               
                                                                                                                                                                                                                                     
                          
@@ -118,6 +134,8 @@
                         </div>
                     </div>
                 </div>
+         
+         
          
        
 {% endfor %}
