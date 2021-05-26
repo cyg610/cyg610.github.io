@@ -13,6 +13,7 @@ category: Web Development
 number-of-people: 4명
 tool: AndroidStudio, firebase
 language: java
+explantion: -파이어베이스의 Authentication을 통해 사용자를 관리 <br>-파이어베이스의 Realtime Database를 이용해 게시글 관련 데이터를 관리 <br>-게시글에 업로드한 사진은 storage에 보관하고 사용자가 게시글을 불러오면 realtime database에 저장되어 있는 storage 주소를 통해 사진 출력
 videosetting: display:none
 snapshot1: go-2.png
 snapshot2: go-3.png
