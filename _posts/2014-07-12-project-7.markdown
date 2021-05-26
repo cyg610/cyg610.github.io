@@ -7,6 +7,7 @@ date: 2014-07-12
 img: star-th2.png
 thumbnail: star-th2.png
 alt: image-alt
+explantion: -가변저항을 통해 LED의 밝기의 MAX값을 조절합니다. <br>-조도센서를 이용해 어두워지면 LED가 켜집니다.
 project-date: 2018.05.20 ~ 2018.06.05
 number-of-people: 1명
 tool: Arduino IDE
