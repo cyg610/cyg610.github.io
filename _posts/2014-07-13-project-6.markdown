@@ -8,6 +8,7 @@ img: trash-th.jpg
 thumbnail: trash-th.jpg
 alt: image-alt
 project-date: 2018.11.20 ~ 2018.12.21
+explantion: -신호등을 감지해 초록불이면 출발하고 빨간이면 정지합니다. <br>-쓰레기통에 초음파센서를 부착해 쓰레기가 가득차면 부저가 울립니다. <br>-서보모터를 이용해 쓰레기통을 잡습니다. <br>-기어모터를 이용해 쓰레기통을 들어 차에 싣습니다. 
 number-of-people: 3명
 tool: Arduino IDE
 language: C
