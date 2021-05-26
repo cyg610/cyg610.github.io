@@ -4,8 +4,8 @@ subtitle: 인터넷 요금 계산 APP
 layout: default
 modal-id: 9
 date: 2014-07-15
-img: inter_th.png
-thumbnail: inter_th.png
+img: inter_th2.png
+thumbnail: inter_th2.png
 alt: image-alt
 project-date: 2019.07~2019.08
 client: Start Bootstrap
