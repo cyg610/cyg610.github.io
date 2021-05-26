@@ -17,7 +17,7 @@ explantion: -본 프로젝트는 '엔오션'에서 진행한 프로젝트입니�
 snapshot1: hotel-1.JPG
 snapshot2: hotel-2.JPG
 snapshot3: hotel-3.JPG
-snapshot3: hotel-4.JPG
+snapshot4: hotel-4.JPG
 videosetting: display:none
 work: APP UI 개발 및 API, gradle 적용
 description: 인터넷 가입센터인 엔오션의 자사 앱입니다. 호텔과 리조트를 예약할 수 있는 APP입니다.
