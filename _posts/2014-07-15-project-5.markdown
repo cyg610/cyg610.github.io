@@ -2,7 +2,7 @@
 title: 인터넷 요금 계산기
 subtitle: 인터넷 요금 계산 APP
 layout: default
-modal-id: 8
+modal-id: 9
 date: 2014-07-15
 img: inter_th.png
 thumbnail: inter_th.png
