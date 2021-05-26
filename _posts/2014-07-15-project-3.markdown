@@ -11,7 +11,7 @@ project-date: 2021.05.01~2021.05.23
 number-of-people: 1명
 tool: AndroidStudio, 공공API
 language: Kotlin
-explantion: -지역별 봉사프로그램 정보 제공 <br> -구글맵API를 활용해 지도 정보를 지도
+explantion: -지역별 봉사프로그램 정보 제공 <br> -구글맵API를 활용해 지도 정보를 지도맵 형태로 제공
 snapshot1: vol-1.png
 snapshot2: vol-2.png
 snapshot3: vol-3.png
