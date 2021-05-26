@@ -1,0 +1,25 @@
+---
+title: HotelGOGO
+subtitle: 호텔, 리조트 예약APP
+layout: default
+modal-id: 10
+date: 2014-07-14
+img: inter_th2.png
+thumbnail: inter_th2.png
+alt: image-alt
+project-date: 2020.01~(중단)
+client: Start Bootstrap
+category: Web Development
+number-of-people: 1명
+tool: AndroidStudio
+language: JAVA
+explantion: -본 프로젝트는 '엔오션'에서 진행한 프로젝트입니다. <br> -호텔, 리조트 예약 APP입니다. <br>- 구글맵API를 적용했습니다, <br>-새로고침을 위한 swipe 기능을 위해 support v4라이브러리를 사용했습니다. <br>- <br> -UI구축 후 코로나로 인해 마무리하지 못하고 중단되었습니다.
+snapshot1: hotel-1.JPG
+snapshot2: hotel-2.JPG
+snapshot3: hotel-3.JPG
+snapshot3: hotel-4.JPG
+videosetting: display:none
+work: APP UI 개발 및 API, gradle 적용
+description: 인터넷 가입센터인 엔오션의 자사 앱입니다. 호텔과 리조트를 예약할 수 있는 APP입니다.
+
+---
