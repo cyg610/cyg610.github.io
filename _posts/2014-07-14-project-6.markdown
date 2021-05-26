@@ -1,4 +1,5 @@
 ---
+
 title: 청년인터넷
 subtitle: 인터넷 가입 홈페이지
 layout: default
@@ -13,7 +14,7 @@ category: Web Development
 number-of-people: 2명
 tool: EditPlus, 그누보드
 language: Html, javascript, jquery, php
-explantion: -본 프로젝트는 '엔오션'에서 진행한 프로젝트입니다. <br> -인터넷 가입을 위한 가입폼이 구현되어 있습니다. <br>-게시판이 구현되어 리뷰 혹은 tip등을 확인 할 수 있습니다. 
+explantion: -본 프로젝트는 '엔오션'에서 진행한 프로젝트입니다. <br>-인터넷 가입을 위한 가입폼이 구현되어 있습니다. <br>-게시판이 구현되어 리뷰 혹은 tip등을 확인 할 수 있습니다. 
 snapshot1: en-1.png
 snapshot2: en-2.png
 snapshot3: en-3.png
@@ -22,6 +23,6 @@ snapshot5: en-5.png
 snapshot6: en-6.png
 videosetting: display:none
 work: 세부페이지 구현
-description: '엔오션'에서 진행한 프로젝트로 인터넷 가입 홈페이지입니다. 
+description: 엔오션에서 진행한 프로젝트로 인터넷 가입 홈페이지입니다. 
 
 ---
