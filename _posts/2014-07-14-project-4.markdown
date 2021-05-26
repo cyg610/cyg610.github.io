@@ -4,8 +4,8 @@ subtitle: 호텔, 리조트 예약APP
 layout: default
 modal-id: 10
 date: 2014-07-14
-img: inter_th2.png
-thumbnail: inter_th2.png
+img: hotel-th.jpg
+thumbnail: hotel-th.jpg
 alt: image-alt
 project-date: 2020.01~(중단)
 client: Start Bootstrap
