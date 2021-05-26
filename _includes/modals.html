@@ -52,17 +52,17 @@
                 <div class="col-md-4">
                     
                  <span>
-                       <img src="img/portfolio/{{ post.snapshot1 }}"  style="width:100%;" onerror="this.style.display='none'""/>
+                       <img class="img_pop" src="img/portfolio/{{ post.snapshot1 }}"  style="width:100%;" onerror="this.style.display='none'""/>
                  </span>
                 </div>
                 <div class="col-md-4">
                     <span>
-                       <img src="img/portfolio/{{ post.snapshot2 }}"  style="width:100%;"  onerror="this.style.display='none'""/>
+                       <img class="img_pop" src="img/portfolio/{{ post.snapshot2 }}"  style="width:100%;"  onerror="this.style.display='none'""/>
                     </span>
                 </div>
                 <div class="col-md-4">
                     <span>
-                       <img src="img/portfolio/{{ post.snapshot3 }}"  style="width:100%;"  onerror="this.style.display='none'""/>
+                       <img class="img_pop" src="img/portfolio/{{ post.snapshot3 }}"  style="width:100%;"  onerror="this.style.display='none'""/>
                     </span>
                 </div>
             </div>                            
@@ -70,17 +70,17 @@
                 <div class="row text-center">
                 <div class="col-md-4">
                     <span>
-                       <img src="img/portfolio/{{ post.snapshot4 }}"  style="width:100%;"   onerror="this.style.display='none'""/>
+                       <img class="img_pop" src="img/portfolio/{{ post.snapshot4 }}"  style="width:100%;"   onerror="this.style.display='none'""/>
                     </span>
                 </div>
                 <div class="col-md-4">
                     <span>
-                       <img src="img/portfolio/{{ post.snapshot5 }}"  style="width:100%;"  onerror="this.style.display='none'""/>
+                       <img class="img_pop" src="img/portfolio/{{ post.snapshot5 }}"  style="width:100%;"  onerror="this.style.display='none'""/>
                     </span>
                 </div>
                 <div class="col-md-4">
                     <span>
-                       <img src="img/portfolio/{{ post.snapshot6 }}" style="width:100%;"  onerror="this.style.display='none'""/>
+                       <img class="img_pop" src="img/portfolio/{{ post.snapshot6 }}" style="width:100%;"  onerror="this.style.display='none'""/>
                     </span>
                 </div>
             </div>  
@@ -88,17 +88,17 @@
                 <div class="row text-center">
                 <div class="col-md-4">
                     <span>
-                       <img src="img/portfolio/{{ post.snapshot7 }}" style="width:100%;"  onerror="this.style.display='none'""/>
+                       <img class="img_pop" src="img/portfolio/{{ post.snapshot7 }}" style="width:100%;"  onerror="this.style.display='none'""/>
                     </span>
                 </div>
                 <div class="col-md-4">
                     <span>
-                       <img src="img/portfolio/{{ post.snapshot8 }}" style="width:100%;"  onerror="this.style.display='none'""/>
+                       <img class="img_pop" src="img/portfolio/{{ post.snapshot8 }}" style="width:100%;"  onerror="this.style.display='none'""/>
                     </span>
                 </div>
                 <div class="col-md-4">
                     <span>
-                       <img src="img/portfolio/{{ post.snapshot9 }}" style="width:100%;"  onerror="this.style.display='none'""/>
+                       <img class="img_pop" src="img/portfolio/{{ post.snapshot9 }}" style="width:100%;"  onerror="this.style.display='none'""/>
                     </span>
                 </div>
             </div>        
@@ -120,7 +120,7 @@
                 </div>
          
             <script type="text/javascript">
-              var img = document.getElementsByTagName("img");
+              var img = document.getElementsByClassName("img_pop");
               for (var x = 0; x < img.length; x++) {
               img.item(x).onclick=function() {window.open(this.src)}; 
               }
